@@ -1,7 +1,10 @@
 # Project-1
 **PROJECT NAME**:"Pakistan Citizen Portal".
-**TEAM MEMBERS**:M.Usman Kamran(526772)
-             Syed Shameer Ali().
+**TEAM MEMBERS**:
+**M.Usman Kamran(526772)**
+
+**Syed Shameer Ali()**
+
 **PROBLEM STATEMENT**:solving Pakistan problems for the peoples of Pakistan.     
 
 **About project:**
@@ -10,11 +13,16 @@
 
 **Tech used:**
 1:Google Stitch 
+
 2:Claude.AI.
 
 **Deployment Steps:**
 **1**:go to github and create a repository.
+
 **2**:Add your team members to work together.
+
 **3**: create a file.
+
 **4**:After making your project,Go to verce.com.
+
 **5**:Deploy your file.
