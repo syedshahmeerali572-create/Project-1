@@ -5,7 +5,7 @@
 
 **1:M.Usman Kamran(526772)**
 
-**2:Syed Shameer Ali()**
+**2:Syed Shahmeer Ali(520732)**
 
 **PROBLEM STATEMENT**:solving Pakistan problems for the peoples of Pakistan.     
 
@@ -27,6 +27,6 @@
 
 **3**: create a file.
 
-**4**:After making your project,Go to verce.com.
+**4**:After making your project,Go to vercel.com.
 
 **5**:Deploy your file.
